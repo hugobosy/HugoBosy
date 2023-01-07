@@ -22,6 +22,17 @@
   
   ##
   
+  <div>
+    <p align="center">
+  <a href="https://github.com/hugobosy?tab=followers">
+    <img src="https://img.shields.io/github/followers/hugobosy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://youtube.com/hugobosy?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCX-JjxQAc9wopjlCptpiq7w?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+</p>
+  </div>
+  
   <div>  
   <a href = "mailto:hkliszcz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hubert-kliszcz-4a0a18169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
