@@ -24,10 +24,10 @@
   
   <div>
     <p align="center">
-  <a href="https://github.com/@hugobosy?tab=followers">
+  <a href="https://github.com/hugobosy?tab=followers">
     <img src="https://img.shields.io/github/followers/hugobosy?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://youtube.com/hugobosy?sub_confirmation=1">
+  <a href="http://youtube.com/@hugobosy?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCX-JjxQAc9wopjlCptpiq7w?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
