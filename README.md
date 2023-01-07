@@ -6,15 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugobosy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugobosy&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-  <p align="center">
-  <a href="https://github.com/hugobosy?tab=followers">
-    <img src="https://img.shields.io/github/followers/satansdeer?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://youtube.com/hugobosy?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC5hby9iDkwOTQM7PIjyjbgw?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
-</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
